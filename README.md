@@ -105,3 +105,20 @@ Preparation for advanced simulation and scientific computing work
 License
 
 Open for academic and educational use.
+
+
+## Installation
+
+Install all dependencies using:
+
+pip install -r requirements.txt
+
+## Running a Program
+
+Use:
+
+python filename.py
+
+For example:
+
+python 03_projectile_motion.py

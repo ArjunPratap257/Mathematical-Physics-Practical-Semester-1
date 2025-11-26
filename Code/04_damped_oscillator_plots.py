@@ -45,6 +45,8 @@ plt.ylabel("Displacement x(t)")
 plt.legend()
 plt.grid(True)
 plt.show()
+plt.savefig("damping.png")
+
 
 # ----------------------------------------------------------
 # THEORY (BRIEF)

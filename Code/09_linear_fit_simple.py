@@ -22,6 +22,7 @@ plt.title("Linear Fit")
 plt.grid()
 plt.legend()
 plt.show()
+plt.savefig("linearfit.png")
 
 # ----------------------------------------------------------
 # THEORY (BRIEF)

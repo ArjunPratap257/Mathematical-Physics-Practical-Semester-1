@@ -30,7 +30,7 @@ means = np.mean(data, axis=1)
 plt.hist(means, bins=50, density=True)
 plt.title("Central Limit Theorem")
 plt.show()
-plt.savefig("random_distribution.png")
+plt.savefig("../plots/random_distribution.png")
 
 
 # ----------------------------------------------------------

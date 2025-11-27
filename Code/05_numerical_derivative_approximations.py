@@ -37,7 +37,7 @@ plt.grid()
 plt.legend()
 plt.title("Function and Exact Derivative")
 plt.show()
-plt.savefig("derivative.png")
+plt.savefig("../plots/derivative.png")
 
 # Error plot (log-log)
 plt.figure()
@@ -50,7 +50,7 @@ plt.grid(True, which="both")
 plt.legend()
 plt.title("Error vs Step Size")
 plt.show()
-plt.savefig("error_log-log.png")
+plt.savefig("../plots/error_log-log.png")
 
 
 # --------------------------------------------------------------

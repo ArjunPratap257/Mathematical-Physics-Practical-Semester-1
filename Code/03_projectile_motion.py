@@ -28,7 +28,7 @@ plt.ylabel("y (m)")
 plt.title("Projectile Motion")
 plt.grid()
 plt.show()
-plt.savefig("projectile.png")
+plt.savefig("../plots/projectile.png")
 
 # ----------------------------------------------------------
 # THEORY (BRIEF)
